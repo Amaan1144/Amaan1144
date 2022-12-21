@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Amaan1144/Amaan1144/blob/main/New%20Project%20(1).gif)](http://amaanportfolio.netlify.app)
 <h1 align="center">Hi 👋, I'm Mohd Amaan Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="340" height="270" src="https://github.com/Amaan1144/Amaan1144/blob/main/gif.gif"/>
+<img align="left" alt="Coding" width="340" height="270" src="https://github.com/Amaan1144/Amaan1144/blob/main/gif.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan1144&label=Profile%20views&color=0e75b6&style=flat" alt="amaan1144" /> </p>
 
