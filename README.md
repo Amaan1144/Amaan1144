@@ -20,7 +20,7 @@
 - 📫 How to reach me **ansariamaan854@gmail.com**
 https://cdn.ghpvc
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UCQ8feibOrpLoG9iSkmVsJJgojmDXggf/view?usp=sharing](https://drive.google.com/file/d/1UCQ8feibOrpLoG9iSkmVsJJgojmDXggf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UTlzKEUjU8O57I7eaO41zNNgbekTh_yz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
