@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Amaan1144/Amaan1144/blob/main/New%20Project%20(1).gif)](http://amaanportfolio.netlify.app)
+
 <h1 align="center">Hi 👋, I'm Mohd Amaan Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="Coding" width="310" height="260" src="https://github.com/Amaan1144/Amaan1144/blob/main/gif.gif"/>
